@@ -6,3 +6,4 @@ appschema 2023-03-16T16:59:24Z PatrickLin <patrick@button.is> # Add schema for a
 users [appschema] 2023-03-17T22:32:17Z PatrickLin <patrick@button.is> # Creates table to track our users.
 insert_user [users appschema] 2023-03-17T23:09:06Z PatrickLin <patrick@button.is> # Creates a function to insert a user.
 change_pass [users appschema] 2023-03-17T23:10:10Z PatrickLin <patrick@button.is> # Creates a function to change a user password.
+@v1.0.0-dev1 2023-03-17T23:20:49Z PatrickLin <patrick@button.is> # Tag v1.0.0-dev1.
