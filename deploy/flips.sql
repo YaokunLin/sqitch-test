@@ -5,7 +5,6 @@
 BEGIN;
 
 -- XXX Add DDLs here.
-BEGIN;
 
 SET client_min_messages = 'warning';
 
@@ -18,4 +17,3 @@ CREATE TABLE flipr.flips (
 
 COMMIT;
 
-COMMIT;

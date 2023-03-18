@@ -9,3 +9,5 @@ change_pass [users appschema] 2023-03-17T23:10:10Z PatrickLin <patrick@button.is
 @v1.0.0-dev1 2023-03-17T23:20:49Z PatrickLin <patrick@button.is> # Tag v1.0.0-dev1.
 
 flips [appschema users] 2023-03-17T23:36:47Z PatrickLin <patrick@button.is> # Adds table for storing flips.
+insert_flip [flips appschema users] 2023-03-18T05:26:44Z PatrickLin <patrick@button.is> # Creates a function to insert a flip.
+delete_flip [flips appschema users] 2023-03-18T05:47:10Z PatrickLin <patrick@button.is> # Creates a function to delete a flip.
